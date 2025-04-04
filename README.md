@@ -44,17 +44,18 @@ Here are some of my favorite works:
 </p>
 
 ---
+### 📈 Contribution Graph
 
-### 📫 Connect with Me
-
-- 💌 Email: kheiria.hamayel@gmail.com  
-- 💼 LinkedIn: [www.linkedin.com/in/kheiria-hamayel-6100571b0](#)  
-- 🎁 My Gift Shop: [@whateversnap24](https://www.instagram.com/whateversnap24)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kheiria-Hamayel&theme=tokyo-night&area=true" />
+</p>
 
 ---
 
-### ☕ Fun Fact
+### 📫 Connect with Me
 
-I run on ☕ coffee, creativity, and caffeine-fueled code sessions.
+[![Instagram](https://img.shields.io/badge/-@whateversnap24-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/whateversnap24)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/-kheiria.hamayel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kheiria.hamayel@gmail.com)
 
 ---
