@@ -30,7 +30,6 @@ Here are some of my favorite works:
 |--------|-------------|------------|------|
 | `Whatever Snap Website` | A full e-commerce website for my gift business | React, Tailwind, Firebase | *Coming soon* |
 | `Attendance App` | RESTful API for attendance system | Java, Spring Boot, MySQL and Docker | [Repo](https://github.com/Kheiria-Hamayel/attendence-app) |
-<!--| `Portfolio Website` | Personal responsive portfolio | HTML, CSS, JS | [Live Demo](#) | -->
 | `Problem-Solving Repo` | My journey in solving DSA questions | Java | [Repo](https://github.com/Kheiria-Hamayel/leetcode-solutions-java-problems) |
 
 ---
