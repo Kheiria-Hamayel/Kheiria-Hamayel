@@ -38,8 +38,6 @@ Here are some of my favorite works:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kheiria-Hamayel&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Kheiria-Hamayel&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
