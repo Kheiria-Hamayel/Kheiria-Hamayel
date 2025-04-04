@@ -6,8 +6,6 @@
 - 🧠 I'm sharpening my skills in **problem-solving** and **design patterns**
 - 💡 I had an internship at the same company as a backend developer. I built a web app using spring boot, MySql and docker.
 - 🎓I graduated as a computer engineer minor accounting from Birzeit University.
-- I'm excited to join a company where I can contribute as a full stack developer or software architect, taking on new challenges that will help me further develop my skills and make a positive impact for the company, much like what I'm currently doing in my current role.
-
   
 ---
 
