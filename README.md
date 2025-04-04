@@ -1,4 +1,4 @@
-## 👋 Hi there! I’m Kheiria Hamayel, a passionate full-stack developer with a love for building scalable, user-friendly web applications. I enjoy learning new technologies and applying my skills to real-world projects.
+## 👋 Hi there! I’m Kheiria Hamayel
 
 ### 👩‍💻 About Me
 
@@ -6,7 +6,7 @@
 - 🧠 I'm sharpening my skills in **problem-solving** and **design patterns**
 - 💡 I had an internship at the same company as a backend developer. I built a web app using spring boot, MySql and docker.
 - 🎓I graduated as a computer engineer minor accounting from Birzeit University.
-  
+-  A passionate Backend developer with a love for building scalable, user-friendly web applications. I enjoy learning new technologies and applying my skills to real-world projects.
 ---
 
 ### 🛠️ Tech Stack
