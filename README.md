@@ -71,6 +71,17 @@ Here are some of my favorite works:
 
 ---
 
+🎁 My Creative Side – Whatever Snap
+<a href="https://www.instagram.com/whateversnap24/" target="_blank"> <img src="https://img.shields.io/badge/@whateversnap24-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/> </a>
+In addition to my passion for development, I also run a small business called Whatever Snap, where I create and prepare handcrafted gift packages for all occasions. From personalized coffee mugs and notebooks to unique gift sets, I ensure each gift brings a smile! ☕🎁
+
+💡 Managing my small business has helped me gain valuable skills in product design, branding, photography, and customer service. This blend of creativity and tech gives me an edge in problem-solving and project management.
+
+📍 Operating in Palestine 🇵🇸
+📬 DM me to order or collaborate via Instagram!
+
+---
+
 ### 📫 Connect with Me
 
 - 💌 Email: kheiria.hamayel@gmail.com  
@@ -82,15 +93,5 @@ Here are some of my favorite works:
 ### 💡 Fun Fact
 
 I run on ☕, creativity, and caffeine-powered code. Also... I’m equally obsessed with mugs *and* clean code 😄
-
----
-🎁 My Creative Side – Whatever Snap
-<a href="https://www.instagram.com/whateversnap24/" target="_blank"> <img src="https://img.shields.io/badge/@whateversnap24-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/> </a>
-In addition to my passion for development, I also run a small business called Whatever Snap, where I create and prepare handcrafted gift packages for all occasions. From personalized coffee mugs and notebooks to unique gift sets, I ensure each gift brings a smile! ☕🎁
-
-💡 Managing my small business has helped me gain valuable skills in product design, branding, photography, and customer service. This blend of creativity and tech gives me an edge in problem-solving and project management.
-
-📍 Operating in Palestine 🇵🇸
-📬 DM me to order or collaborate via Instagram!
 
 ---
